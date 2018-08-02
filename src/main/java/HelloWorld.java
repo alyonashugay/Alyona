@@ -12,22 +12,23 @@ public class HelloWorld {
 
 
 
-       int i = 0;
+       /* int i = 0;
         do {
             System.out.println("Hello " + args[i++] + "!");
         }
         while (i < args.length);
+        */
 
 
 
 
 
-      /*  int i = 0;
+       int i = 0;
         while(i < args.length) {
             System.out.println("Hello " + args[i++] + "!");
 
         }
-        */
+
 
    /* switch (args.length) {
          case 0:
