@@ -1,6 +1,6 @@
 public class Recursion2 {
     public static void main(String[] args) {
-        System.out.println (fact(4));
+        System.out.println (fact(5));
         }
 
         private static int fact(int n) {
