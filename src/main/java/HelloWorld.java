@@ -12,12 +12,12 @@ public class HelloWorld {
 
 
 
-       /* int i = 0;
+        int i = 0;
         do {
             System.out.println("Hello " + args[i++] + "!");
         }
         while (i < args.length);
-        */
+
 
 
 
